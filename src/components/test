@@ -1,0 +1,30 @@
+ // const foreCast = {
+  //   astro: {
+  //     title: "Sun",
+  //     title1: data?.forecast?.forecastday[0]?.astro.sunrise,
+  //     title2: data?.forecast?.forecastday[0]?.astro.sunset,
+  //   },
+  //   temp: {
+  //     title: "Temperature History",
+  //     title1: data?.foreCast?.forecastday[0]?.maxtemp_c,
+  //     title2: data?.foreCast?.forecastday[0]?.mintemp_c,
+  //   },
+  //   avg: {
+  //     title: "Humidity",
+  //     title1: data?.foreCast?.forecastday[0]?.avghumidity,
+  //   },
+  //   rain: {
+  //     title: "Chance of rain",
+  //     title1: data?.foreCast?.forecastday[0]?.daily_chance_of_rain,
+  //   },
+  //   wind: {
+  //     title: "Wind",
+  //     title1: data?.foreCast?.forecastday[0]?.maxwind_kph,
+  //   },
+  //   uv: {
+  //     title: "UV Index",
+  //     title1: data?.foreCast?.forecastday[0]?.uv,
+  //   },
+  // };
+
+  // console.log(foreCast);
